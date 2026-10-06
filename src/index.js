@@ -1,2 +1,2 @@
 const nome = "Nicolas"
-console.log(`Olá, ${nome}!`) dfgdsfgsdfgd
+console.log(`Olá, ${nome}!`)
